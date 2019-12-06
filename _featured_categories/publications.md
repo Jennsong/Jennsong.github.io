@@ -1,6 +1,6 @@
 ---
-#layout: list
-layout: page
+layout: list
+#layout: page
 title: Publications
 slug: publications
 menu: true
