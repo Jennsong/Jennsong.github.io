@@ -4,7 +4,7 @@
 # IMPORTANT: Set the URL of your site.
 # Set to https://<username>.github.io when hosting on GitHub Pages
 # (unless you are using a custom domain).
-url:                   https://zuocong10.github.io
+url:                   https://Jennsong.github.io
 
 # IMPORTANT: Set The "base URL" of your site.
 # When your site sits in a subdirectory, set to /<name of directory>
@@ -19,16 +19,16 @@ baseurl:               ''
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Cong Zuo
+title:                 Jenn Song
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  Welcome to my personal webpages.
+  Hola!.
 
 # A shorter description for the sidebar.
 tagline:               >
- A PhD student of Monash University.
+ A Nursing student in Monash University.
 
 # A list of keywords for your blog
 keywords:              []
@@ -36,12 +36,12 @@ keywords:              []
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
 # It also used by the `jekyll-seo-tag` plugin.
-logo:                  /assets/icons/CongZuo.png
+logo:                  /assets/icons/Jenn Song.png
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
-  name:                Cong Zuo
-  email:             <cong.zuo@monash.edu>
+  name:                Jenn Song
+  email:             <json0016@student.monash.edu>
   # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
